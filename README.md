@@ -1,2 +1,2 @@
-# cubexo
+# CubeXO
 The Night Before Dawn
