@@ -1,2 +1,2 @@
-# CubeXO
+# XOCube
 The Night Before Dawn
